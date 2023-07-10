@@ -3,7 +3,7 @@
 #include <GL/glew.h>
 #include <GLFW/glfw3.h>
 
-const GLint WIDTH = 1800, HEIGHT = 1600;
+const GLint WIDTH = 800, HEIGHT = 600;
 
 using namespace std;
 
@@ -65,7 +65,7 @@ int main()
 		glfwPollEvents();
 
 		// Clear Window
-		glClearColor(1.0f, 1.0f, 1.0f, 1.0f);
+		glClearColor(1.0f, 0.0f, 0.0f, 1.0f);
 		glClear(GL_COLOR_BUFFER_BIT);
 
 		glfwSwapBuffers(mainWindow);

@@ -1,1 +1,2 @@
 F:\Git\OpenGL\Learning\OpenGLLearning\Debug\OpenGLLearning.exe
+C:\Users\Teruten\Desktop\git\OpenGL\Learning\OpenGLLearning\Debug\OpenGLLearning.exe

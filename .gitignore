@@ -222,3 +222,6 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+Learning/OpenGLLearning/.vs/OpenGLLearning/v16/ipch/AutoPCH/318fb0ada240fd02/MAIN.ipch
+Learning/OpenGLLearning/.vs/OpenGLLearning/v16/ipch/AutoPCH/318fb0ada240fd02/MAIN.ipch
+*.ipch
